@@ -12,7 +12,7 @@ This a double fuel pipe clip for TD5 land rover defender, to hold fuel hoses to 
 * Filament material: PETG
 
 ## Notes
-I choosed 90° of bed temperature and 250° for extruder. I print on painter tape to remove easily.
+I chose 90° of bed temperature and 250° for extruder. I print on painter tape to remove easily.
 Slicing was made with PrusaSlicer 2.5.0, i changed perimeter to classical because it was asymetric and not sturdy with "Arachne", and i select "everywhere" for supports.
 The print direction is from the side, and since then supports are needed for the "clip" part.
 I think it's really important to use PETG over PLA, a Defender leaking oil, fuel and grease, sprayed with water and mud, may shorten PLA lifetime to unacceptable levels.
